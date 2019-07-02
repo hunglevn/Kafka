@@ -42,5 +42,7 @@ This is guide for setting up a cluster of three nodes.
 # Use Kafka Streams to process data
 - TODO:...
 
+# Sample code:
+- Sample Java code uses spring kafka to send/receive messages to topic.
 
 auto.create.topics.enable
