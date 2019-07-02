@@ -41,3 +41,6 @@ This is guide for setting up a cluster of three nodes.
 - TODO:...
 # Use Kafka Streams to process data
 - TODO:...
+
+
+auto.create.topics.enable
