@@ -1,5 +1,5 @@
 # Description
-This is guide for basic operation with Kafka
+This is guide for basic operation with Kafka. There is also a sample Java code that uses spring kafka to send/receive messages to topic.
 # Setup and start Kafka server
 - Download Kafka: https://www.apache.org/dyn/closer.cgi?path=/kafka/2.2.0/kafka_2.12-2.2.0.tgz
 - Extract Kafka to: D:\Apps\kafka_2.12-2.2.0
